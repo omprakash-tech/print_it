@@ -1,0 +1,49 @@
+SIZE ,SHAPE ,STOCK ,COLORSPEC ,COATING ,BLANK ENVELOPES ,RunSize,UnitPrice,TotalPrice
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Include Envelopes - A2,500,0.3856,192.78
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Include Envelopes - A2,1000,0.2916,291.59
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,No Blank Envelopes,500,0.3356,167.78
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,No Blank Envelopes,1000,0.2586,258.59
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/1,No Coating,Include Envelopes - A2,500,0.3895,194.75
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/1,No Coating,Include Envelopes - A2,1000,0.2936,293.58
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/1,No Coating,No Blank Envelopes,500,0.3395,169.75
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/1,No Coating,No Blank Envelopes,1000,0.2606,260.58
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Include Envelopes - A2,500,0.3895,194.75
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Include Envelopes - A2,1000,0.2936,293.58
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,No Blank Envelopes,500,0.3395,169.75
+"4.25"" x 5.5""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,No Blank Envelopes,1000,0.2606,260.58
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Include Envelopes - A6,500,0.4187,209.34
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Include Envelopes - A6,1000,0.3257,325.71
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,No Blank Envelopes,500,0.3661,183.04
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,No Blank Envelopes,1000,0.2821,282.11
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/1,No Coating,Include Envelopes - A6,500,0.4230,211.48
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/1,No Coating,Include Envelopes - A6,1000,0.3278,327.83
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/1,No Coating,No Blank Envelopes,500,0.3704,185.18
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/1,No Coating,No Blank Envelopes,1000,0.2842,284.23
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Include Envelopes - A6,500,0.4230,211.48
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Include Envelopes - A6,1000,0.3278,327.83
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,No Blank Envelopes,500,0.3704,185.18
+"4.25"" x 6""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,No Blank Envelopes,1000,0.2842,284.23
+"5"" x 7""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Include Envelopes - A7,500,0.4856,242.81
+"5"" x 7""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Include Envelopes - A7,1000,0.3975,397.46
+"5"" x 7""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,No Blank Envelopes,500,0.4414,220.71
+"5"" x 7""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,No Blank Envelopes,1000,0.3573,357.26
+"5"" x 7""",Rectangle,32PT Uncoated,4/1,No Coating,Include Envelopes - A7,500,0.5174,258.69
+"5"" x 7""",Rectangle,32PT Uncoated,4/1,No Coating,Include Envelopes - A7,1000,0.4133,413.35
+"5"" x 7""",Rectangle,32PT Uncoated,4/1,No Coating,No Blank Envelopes,500,0.4732,236.59
+"5"" x 7""",Rectangle,32PT Uncoated,4/1,No Coating,No Blank Envelopes,1000,0.3731,373.15
+"5"" x 7""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Include Envelopes - A7,500,0.5174,258.69
+"5"" x 7""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Include Envelopes - A7,1000,0.4133,413.35
+"5"" x 7""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,No Blank Envelopes,500,0.4732,236.59
+"5"" x 7""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,No Blank Envelopes,1000,0.3731,373.15
+"6"" x 6""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Include Envelopes - 6.5X6.5,500,0.5052,252.61
+"6"" x 6""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Include Envelopes - 6.5X6.5,1000,0.4131,413.06
+"6"" x 6""",Square,32PT Uncoated,4/0 (4 color front),No Coating,No Blank Envelopes,500,0.4414,220.71
+"6"" x 6""",Square,32PT Uncoated,4/0 (4 color front),No Coating,No Blank Envelopes,1000,0.3573,357.26
+"6"" x 6""",Square,32PT Uncoated,4/1,No Coating,Include Envelopes - 6.5X6.5,500,0.5370,268.49
+"6"" x 6""",Square,32PT Uncoated,4/1,No Coating,Include Envelopes - 6.5X6.5,1000,0.4289,428.95
+"6"" x 6""",Square,32PT Uncoated,4/1,No Coating,No Blank Envelopes,500,0.4732,236.59
+"6"" x 6""",Square,32PT Uncoated,4/1,No Coating,No Blank Envelopes,1000,0.3731,373.15
+"6"" x 6""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Include Envelopes - 6.5X6.5,500,0.5370,268.49
+"6"" x 6""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Include Envelopes - 6.5X6.5,1000,0.4289,428.95
+"6"" x 6""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,No Blank Envelopes,500,0.4732,236.59
+"6"" x 6""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,No Blank Envelopes,1000,0.3731,373.15

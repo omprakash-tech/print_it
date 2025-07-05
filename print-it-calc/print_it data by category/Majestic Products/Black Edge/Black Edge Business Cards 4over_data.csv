@@ -1,0 +1,43 @@
+SIZE ,SHAPE ,STOCK ,COLORSPEC ,COATING ,RunSize,UnitPrice,TotalPrice
+"1.5"" x 3.5""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,500,0.0849,42.44
+"1.5"" x 3.5""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,1000,0.0647,64.67
+"1.5"" x 3.5""",Rectangle,32PT Uncoated,4/1,No Coating,500,0.0849,42.44
+"1.5"" x 3.5""",Rectangle,32PT Uncoated,4/1,No Coating,1000,0.0647,64.67
+"1.5"" x 3.5""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,500,0.0828,41.42
+"1.5"" x 3.5""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,1000,0.0621,62.07
+"1.75"" x 3.5""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,500,0.0849,42.44
+"1.75"" x 3.5""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,1000,0.0647,64.67
+"1.75"" x 3.5""",Rectangle,32PT Uncoated,4/1,No Coating,500,0.0849,42.44
+"1.75"" x 3.5""",Rectangle,32PT Uncoated,4/1,No Coating,1000,0.0647,64.67
+"1.75"" x 3.5""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,500,0.0828,41.42
+"1.75"" x 3.5""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,1000,0.0621,62.07
+"2"" x 2""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,500,0.0970,48.50
+"2"" x 2""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,1000,0.0739,73.91
+"2"" x 2""",Square,32PT Uncoated,4/1,No Coating,500,0.0970,48.50
+"2"" x 2""",Square,32PT Uncoated,4/1,No Coating,1000,0.0739,73.91
+"2"" x 2""",Square,32PT Uncoated,4/0 (4 color front),No Coating,500,0.0947,47.35
+"2"" x 2""",Square,32PT Uncoated,4/0 (4 color front),No Coating,1000,0.0709,70.87
+"2"" x 3""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,500,0.0970,48.50
+"2"" x 3""",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,1000,0.0739,73.91
+"2"" x 3""",Rectangle,32PT Uncoated,4/1,No Coating,500,0.0970,48.50
+"2"" x 3""",Rectangle,32PT Uncoated,4/1,No Coating,1000,0.0739,73.91
+"2"" x 3""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,500,0.0947,47.35
+"2"" x 3""",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,1000,0.0709,70.87
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,500,0.0970,48.50
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,1000,0.0739,73.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,500,0.0970,48.50
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,1000,0.0739,73.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,500,0.0947,47.35
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,1000,0.0709,70.87
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,500,0.0970,48.50
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,1000,0.0739,73.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,500,0.0970,48.50
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,1000,0.0739,73.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,500,0.0947,47.35
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,1000,0.0709,70.87
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,500,0.0970,48.50
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,1000,0.0739,73.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,500,0.0970,48.50
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,1000,0.0739,73.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,500,0.0947,47.35
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,1000,0.0709,70.87

@@ -1,0 +1,385 @@
+SIZE ,SHAPE ,STOCK ,COLORSPEC ,COATING ,DRILL HOLE ,RunSize,UnitPrice,TotalPrice
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,100,0.3812,38.12
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,250,0.2223,55.57
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,500,0.1493,74.64
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,1000,0.1135,113.53
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",100,0.3812,38.12
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",250,0.2223,55.57
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",500,0.1493,74.64
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",1000,0.1135,113.53
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,100,0.4129,41.29
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,250,0.2414,60.34
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,500,0.1651,82.57
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,1000,0.1270,127.04
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",500,0.1651,82.57
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,100,0.3969,39.69
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,250,0.2350,58.75
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,500,0.1619,80.97
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,1000,0.1239,123.86
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",100,0.3969,39.69
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",250,0.2350,58.75
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",500,0.1619,80.97
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",1000,0.1239,123.86
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,100,0.4049,40.49
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,250,0.2382,59.54
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,500,0.1635,81.77
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,1000,0.1262,126.24
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4049,40.49
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2382,59.54
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1635,81.77
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1262,126.24
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,100,0.3969,39.69
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,250,0.2350,58.75
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,500,0.1619,80.97
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,1000,0.1239,123.86
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",100,0.3969,39.69
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",250,0.2350,58.75
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",500,0.1619,80.97
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",1000,0.1239,123.86
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,100,0.4129,41.29
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,250,0.2414,60.34
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,500,0.1651,82.57
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,1000,0.1270,127.04
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",500,0.1651,82.57
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,100,0.4129,41.29
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,250,0.2414,60.34
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,500,0.1651,82.57
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,1000,0.1270,127.04
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1651,82.57
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,100,0.3889,38.89
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,250,0.2286,57.16
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,500,0.1524,76.21
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,1000,0.1167,116.70
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",100,0.3889,38.89
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",250,0.2286,57.16
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",500,0.1524,76.21
+"1.5"" x 3.5""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",1000,0.1167,116.70
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,100,0.3812,38.12
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,250,0.2223,55.57
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,500,0.1493,74.64
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,1000,0.1135,113.53
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",100,0.3812,38.12
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",250,0.2223,55.57
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",500,0.1493,74.64
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",1000,0.1135,113.53
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,100,0.4129,41.29
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,250,0.2414,60.34
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,500,0.1651,82.57
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,1000,0.1270,127.04
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",500,0.1651,82.57
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,100,0.3969,39.69
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,250,0.2350,58.75
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,500,0.1619,80.97
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,1000,0.1239,123.86
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",100,0.3969,39.69
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",250,0.2350,58.75
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",500,0.1619,80.97
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",1000,0.1239,123.86
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,100,0.4049,40.49
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,250,0.2382,59.54
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,500,0.1635,81.77
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,1000,0.1262,126.24
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4049,40.49
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2382,59.54
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1635,81.77
+"2"" x 2""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1262,126.24
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,100,0.3969,39.69
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,250,0.2350,58.75
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,500,0.1619,80.97
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,1000,0.1239,123.86
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",100,0.3969,39.69
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",250,0.2350,58.75
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",500,0.1619,80.97
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",1000,0.1239,123.86
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,100,0.4129,41.29
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,250,0.2414,60.34
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,500,0.1651,82.57
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,1000,0.1270,127.04
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",500,0.1651,82.57
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,100,0.4129,41.29
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,250,0.2414,60.34
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,500,0.1651,82.57
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,1000,0.1270,127.04
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1651,82.57
+"2"" x 2""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,100,0.3889,38.89
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,250,0.2286,57.16
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,500,0.1524,76.21
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,1000,0.1167,116.70
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",100,0.3889,38.89
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",250,0.2286,57.16
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",500,0.1524,76.21
+"2"" x 2""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",1000,0.1167,116.70
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,100,0.3812,38.12
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,250,0.2223,55.57
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,500,0.1493,74.64
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,1000,0.1135,113.53
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",100,0.3812,38.12
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",250,0.2223,55.57
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",500,0.1493,74.64
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",1000,0.1135,113.53
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,100,0.4129,41.29
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,250,0.2414,60.34
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,500,0.1651,82.57
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,1000,0.1270,127.04
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",500,0.1651,82.57
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,100,0.3969,39.69
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,250,0.2350,58.75
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,500,0.1619,80.97
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,1000,0.1239,123.86
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",100,0.3969,39.69
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",250,0.2350,58.75
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",500,0.1619,80.97
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",1000,0.1239,123.86
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,100,0.4049,40.49
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,250,0.2382,59.54
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,500,0.1635,81.77
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,1000,0.1262,126.24
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4049,40.49
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2382,59.54
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1635,81.77
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1262,126.24
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,100,0.3969,39.69
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,250,0.2350,58.75
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,500,0.1619,80.97
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,1000,0.1239,123.86
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",100,0.3969,39.69
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",250,0.2350,58.75
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",500,0.1619,80.97
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",1000,0.1239,123.86
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,100,0.4129,41.29
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,250,0.2414,60.34
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,500,0.1651,82.57
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,1000,0.1270,127.04
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",500,0.1651,82.57
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,100,0.4129,41.29
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,250,0.2414,60.34
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,500,0.1651,82.57
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,1000,0.1270,127.04
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1651,82.57
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,100,0.3889,38.89
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,250,0.2286,57.16
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,500,0.1524,76.21
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,1000,0.1167,116.70
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",100,0.3889,38.89
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",250,0.2286,57.16
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",500,0.1524,76.21
+"2"" x 3.5"" (US Standard)",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",1000,0.1167,116.70
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,100,0.4129,41.29
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,250,0.2318,57.96
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,500,0.1588,79.40
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,1000,0.1191,119.09
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",250,0.2318,57.96
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",500,0.1588,79.40
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",1000,0.1191,119.09
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,100,0.4446,44.46
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,250,0.2540,63.50
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,500,0.1747,87.33
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,1000,0.1334,133.38
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",100,0.4446,44.46
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",250,0.2540,63.50
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",500,0.1747,87.33
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",1000,0.1334,133.38
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,100,0.4287,42.87
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,250,0.2477,61.93
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,500,0.1715,85.75
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,1000,0.1302,130.20
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",100,0.4287,42.87
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",250,0.2477,61.93
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",500,0.1715,85.75
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",1000,0.1302,130.20
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,100,0.4446,44.46
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,250,0.2540,63.50
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,500,0.1747,87.33
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,1000,0.1310,131.00
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4446,44.46
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2540,63.50
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1747,87.33
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1310,131.00
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,100,0.4287,42.87
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,250,0.2477,61.93
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,500,0.1715,85.75
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,1000,0.1302,130.20
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",100,0.4287,42.87
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",250,0.2477,61.93
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",500,0.1715,85.75
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",1000,0.1302,130.20
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,100,0.4446,44.46
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,250,0.2540,63.50
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,500,0.1747,87.33
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,1000,0.1334,133.38
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",100,0.4446,44.46
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",250,0.2540,63.50
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",500,0.1747,87.33
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",1000,0.1334,133.38
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,100,0.4446,44.46
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,250,0.2540,63.50
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,500,0.1747,87.33
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,1000,0.1334,133.38
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4446,44.46
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2540,63.50
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1747,87.33
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1334,133.38
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,100,0.4287,42.87
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,250,0.2414,60.34
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,500,0.1683,84.15
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,1000,0.1254,125.44
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",100,0.4287,42.87
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",500,0.1683,84.15
+"2"" x 4""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",1000,0.1254,125.44
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,100,0.4287,42.87
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,250,0.2477,61.93
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,500,0.1747,87.33
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,1000,0.1365,136.55
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",100,0.4287,42.87
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",250,0.2477,61.93
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",500,0.1747,87.33
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",1000,0.1365,136.55
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,100,0.4763,47.63
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,250,0.2731,68.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,500,0.1953,97.66
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,1000,0.1572,157.20
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",100,0.4763,47.63
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",250,0.2731,68.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",500,0.1953,97.66
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",1000,0.1572,157.20
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,100,0.4446,44.46
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,250,0.2604,65.10
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,500,0.1874,93.68
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,1000,0.1509,150.85
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",100,0.4446,44.46
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",250,0.2604,65.10
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",500,0.1874,93.68
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",1000,0.1509,150.85
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,100,0.4605,46.05
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,250,0.2668,66.70
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,500,0.1906,95.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,1000,0.1524,152.43
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4605,46.05
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2668,66.70
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1906,95.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1524,152.43
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,100,0.4605,46.05
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,250,0.2668,66.70
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,500,0.1906,95.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,1000,0.1556,155.61
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",100,0.4605,46.05
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",250,0.2668,66.70
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",500,0.1906,95.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",1000,0.1556,155.61
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,100,0.4763,47.63
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,250,0.2731,68.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,500,0.1953,97.66
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,1000,0.1572,157.20
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",100,0.4763,47.63
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",250,0.2731,68.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",500,0.1953,97.66
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",1000,0.1572,157.20
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,100,0.4763,47.63
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,250,0.2731,68.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,500,0.1953,97.66
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,1000,0.1572,157.20
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4763,47.63
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2731,68.28
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1953,97.66
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1572,157.20
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,100,0.4367,43.67
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,250,0.2540,63.50
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,500,0.1778,88.92
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,1000,0.1381,138.14
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",100,0.4367,43.67
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",250,0.2540,63.50
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",500,0.1778,88.92
+"2"" x 6""",Rectangle,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",1000,0.1381,138.14
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,100,0.3969,39.69
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,250,0.2286,57.16
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,500,0.1556,77.81
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,No Drill Hole,1000,0.1159,115.93
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",100,0.3969,39.69
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",250,0.2286,57.16
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",500,0.1556,77.81
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 (4 color front),No Coating,"Standard Drill Hole 1/8""",1000,0.1159,115.93
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,100,0.4287,42.87
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,250,0.2477,61.93
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,500,0.1715,85.75
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,No Drill Hole,1000,0.1302,130.20
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",100,0.4287,42.87
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",250,0.2477,61.93
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",500,0.1715,85.75
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Back,No Coating,"Standard Drill Hole 1/8""",1000,0.1302,130.20
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,100,0.4129,41.29
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,250,0.2414,60.34
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,500,0.1683,84.15
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1,No Coating,No Drill Hole,1000,0.1270,127.04
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",500,0.1683,84.15
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1,No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,100,0.4208,42.08
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,250,0.2445,61.14
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,500,0.1699,84.95
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,No Drill Hole,1000,0.1294,129.40
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4208,42.08
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2445,61.14
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1699,84.95
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/1 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1294,129.40
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,100,0.4129,41.29
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,250,0.2414,60.34
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,500,0.1683,84.15
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,No Drill Hole,1000,0.1270,127.04
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",100,0.4129,41.29
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",250,0.2414,60.34
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",500,0.1683,84.15
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 (4 color both sides),No Coating,"Standard Drill Hole 1/8""",1000,0.1270,127.04
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,100,0.4287,42.87
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,250,0.2477,61.93
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,500,0.1715,85.75
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,No Drill Hole,1000,0.1302,130.20
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",100,0.4287,42.87
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",250,0.2477,61.93
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",500,0.1715,85.75
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask Both Sides,No Coating,"Standard Drill Hole 1/8""",1000,0.1302,130.20
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,100,0.4287,42.87
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,250,0.2477,61.93
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,500,0.1715,85.75
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,No Drill Hole,1000,0.1302,130.20
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",100,0.4287,42.87
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",250,0.2477,61.93
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",500,0.1715,85.75
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/4 with White Mask on Front,No Coating,"Standard Drill Hole 1/8""",1000,0.1302,130.20
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,100,0.4049,40.49
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,250,0.2350,58.75
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,500,0.1588,79.40
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,No Drill Hole,1000,0.1223,122.27
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",100,0.4049,40.49
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",250,0.2350,58.75
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",500,0.1588,79.40
+"2.5"" x 2.5""",Square,18PT Uncoated Kraft,4/0 with White Mask,No Coating,"Standard Drill Hole 1/8""",1000,0.1223,122.27

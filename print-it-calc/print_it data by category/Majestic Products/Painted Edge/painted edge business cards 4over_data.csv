@@ -1,0 +1,613 @@
+SIZE ,SHAPE ,STOCK ,COLORSPEC ,COATING ,EDGE COLOR ,CLEAR CASE ,RunSize,UnitPrice,TotalPrice
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Gold,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Gold,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Gold,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Gold,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Gold,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Gold,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Yellow,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Yellow,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Yellow,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Yellow,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Yellow,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Yellow,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Purple,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Purple,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Purple,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Purple,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Purple,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Purple,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Yellow,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Yellow,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Yellow,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Yellow,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Yellow,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Yellow,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Purple,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Purple,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Purple,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Purple,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Purple,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Purple,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Green,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Green,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Green,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Green,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Green,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Green,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,White (Not Painted),Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,White (Not Painted),Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,White (Not Painted),Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,White (Not Painted),Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,White (Not Painted),Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,White (Not Painted),Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Black,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Black,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Black,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Black,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Black,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Black,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Orange,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Orange,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Orange,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Orange,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Orange,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Orange,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Pink,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Pink,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Pink,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Pink,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Pink,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Pink,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Blue,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Blue,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Blue,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Blue,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Blue,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Blue,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Brown,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Brown,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Brown,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Brown,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Brown,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Brown,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Red,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Red,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Red,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Red,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Red,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Red,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Turquoise,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Turquoise,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Turquoise,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Turquoise,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Turquoise,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Turquoise,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Orange,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Orange,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Orange,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Orange,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Orange,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Orange,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Blue,Insert in a Clear Case,250,0.2969,74.23
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Blue,Insert in a Clear Case,500,0.1871,93.55
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Blue,Insert in a Clear Case,1000,0.1539,153.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Blue,Ship with a Brown Box,250,0.2829,70.73
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Blue,Ship with a Brown Box,500,0.1761,88.05
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Blue,Ship with a Brown Box,1000,0.1429,142.91
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Purple,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Purple,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Purple,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Purple,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Purple,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Purple,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Black,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Black,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Black,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Black,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Black,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Black,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Pink,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Pink,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Pink,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Pink,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Pink,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Pink,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Brown,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Brown,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Brown,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Brown,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Brown,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Brown,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Red,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Red,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Red,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Red,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Red,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Red,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Orange,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Orange,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Orange,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Orange,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Orange,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Orange,Ship with a Brown Box,1000,0.1357,135.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Blue,Insert in a Clear Case,250,0.2334,58.36
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Blue,Insert in a Clear Case,500,0.1698,84.90
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Blue,Insert in a Clear Case,1000,0.1467,146.68
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Blue,Ship with a Brown Box,250,0.2194,54.86
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Blue,Ship with a Brown Box,500,0.1588,79.40
+"2"" x 3.5"" (US Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Blue,Ship with a Brown Box,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Gold,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Gold,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Gold,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Yellow,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Yellow,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Yellow,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Purple,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Purple,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Purple,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Yellow,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Yellow,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Yellow,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Purple,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Purple,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Purple,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Green,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Green,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Green,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,White (Not Painted),,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,White (Not Painted),,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,White (Not Painted),,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Black,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Black,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Black,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Orange,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Orange,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Orange,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Pink,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Pink,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Pink,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Blue,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Blue,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Metallic Blue,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Brown,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Brown,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Brown,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Red,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Red,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Red,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Turquoise,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Turquoise,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Turquoise,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Orange,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Orange,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Orange,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Blue,,250,0.2829,70.73
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Blue,,500,0.1761,88.05
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/1,No Coating,Blue,,1000,0.1429,142.91
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Purple,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Purple,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Purple,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Black,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Black,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Black,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Pink,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Pink,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Pink,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Brown,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Brown,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Brown,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Red,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Red,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Red,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Orange,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Orange,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Orange,,1000,0.1357,135.68
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Blue,,250,0.2194,54.86
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Blue,,500,0.1588,79.40
+"2.125"" x 3.375"" (EU Standard)",Rectangle,32PT Uncoated,4/0 (4 color front),No Coating,Blue,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Gold,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Yellow,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Purple,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Yellow,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Hot Pink,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Purple,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Green,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,White (Not Painted),,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Black,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Orange,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Pink,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Metallic Blue,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Brown,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Red,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Turquoise,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Orange,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/4 (4 color both sides),No Coating,Blue,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Gold,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Gold,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Gold,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Yellow,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Yellow,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Yellow,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Purple,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Purple,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Purple,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Yellow,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Yellow,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Yellow,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Hot Pink,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Purple,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Purple,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Purple,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Green,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Green,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Green,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,White (Not Painted),,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,White (Not Painted),,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,White (Not Painted),,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Black,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Black,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Black,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Orange,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Orange,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Orange,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Pink,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Pink,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Pink,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Blue,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Blue,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Metallic Blue,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Brown,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Brown,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Brown,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Red,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Red,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Red,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Turquoise,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Turquoise,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Turquoise,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Orange,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Orange,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Orange,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Blue,,250,0.3112,77.81
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Blue,,500,0.1937,96.86
+"2.5"" x 2.5""",Square,32PT Uncoated,4/1,No Coating,Blue,,1000,0.1429,142.91
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Gold,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Yellow,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Purple,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Yellow,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Hot Pink,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Purple,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Purple,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Purple,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Green,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,White (Not Painted),,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Black,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Black,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Black,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Orange,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Pink,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Pink,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Pink,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Metallic Blue,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Brown,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Brown,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Brown,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Red,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Red,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Red,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Turquoise,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Orange,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Orange,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Orange,,1000,0.1357,135.68
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Blue,,250,0.2414,60.34
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Blue,,500,0.1747,87.33
+"2.5"" x 2.5""",Square,32PT Uncoated,4/0 (4 color front),No Coating,Blue,,1000,0.1357,135.68
